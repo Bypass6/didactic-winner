@@ -1,0 +1,16 @@
+body {
+    width: 300px;
+    text-align: center;
+}
+
+.pet-container {
+    margin: 10px;
+}
+
+.pet-info {
+    text-align: left;
+}
+
+.game-actions {
+    margin: 10px;
+}
